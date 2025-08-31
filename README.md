@@ -79,5 +79,3 @@ negócio.
 ## 📌 Autor
 
 👤 Desenvolvido por **Gabrielle Rosa**\
-📧 Contato: \[gabriellerosaribeiro@outlook.com\]\
-🔗 LinkedIn: \[https://www.linkedin.com/in/gabrielle-rosa-ribeiro/]\
