@@ -78,4 +78,4 @@ negócio.
 
 ## 📌 Autor
 
-👤 Desenvolvido por **Gabrielle Rosa**\
+👤 Desenvolvido por **Gabrielle Rosa**
